@@ -46,11 +46,11 @@ function typeWriter() {
   });
 
   document.getElementById("resume-button-1").onclick=()=>{
-window.open("https://drive.google.com/drive/folders/1_f_84l56qhhHZD5nkrI5HA4fx8i48hXn")
+window.open("https://drive.google.com/file/d/1IWLWdhx14jp1HvvIvMStcZnBiwxtMvv-/view?usp=sharing")
   }
 
   document.getElementById("resume-button-2").onclick=()=>{
-   window.open("https://drive.google.com/drive/folders/1_f_84l56qhhHZD5nkrI5HA4fx8i48hXn")
+   window.open("https://drive.google.com/file/d/1IWLWdhx14jp1HvvIvMStcZnBiwxtMvv-/view?usp=sharing")
   }
      
   
