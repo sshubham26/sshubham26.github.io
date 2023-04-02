@@ -1,6 +1,6 @@
 let i=0;
-let txt="NodeJS Developer.";
-let speed=75;
+let txt="NodeJS Backend Developer.";
+let speed=100;
 
 typeWriter()
 
