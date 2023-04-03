@@ -46,11 +46,11 @@ function typeWriter() {
   });
 
   document.getElementById("resume-button-1").onclick=()=>{
-window.open("https://drive.google.com/file/d/1J4mEpuyAwaseQN4OyErX_pqdo13XKpjf/view?usp=sharing")
+window.open("https://drive.google.com/file/d/1gv76COLhSycD0gHp7f1qYNEGyDGSH_Xj/view?usp=sharing")
   }
 
   document.getElementById("resume-button-2").onclick=()=>{
-   window.open("https://drive.google.com/file/d/1J4mEpuyAwaseQN4OyErX_pqdo13XKpjf/view?usp=sharing")
+   window.open("https://drive.google.com/file/d/1gv76COLhSycD0gHp7f1qYNEGyDGSH_Xj/view?usp=sharing")
   }
      
   
@@ -63,3 +63,9 @@ window.open("https://drive.google.com/file/d/1J4mEpuyAwaseQN4OyErX_pqdo13XKpjf/v
     document.getElementById("mySidebar").style.width = "0";
     document.getElementById("main").style.display= "block";
   }
+
+
+
+document.getElementById('goTOHackerrank').addEventListener("click", ()=>{
+  location.href = 'https://www.hackerrank.com/kishansharma6377?hr_r=1'
+})
