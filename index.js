@@ -49,9 +49,9 @@ GitHubCalendar(".calendar", "abhirupbakshi", {
 //   window.open("https://drive.google.com/file/d/1rqEOeSDcGGR5x_lKBTYMkL8cfnEShobQ/view?usp=share_link")
 // }
 
-document.getElementById("resume-button-2").onclick = () => {
-  window.open("https://drive.google.com/file/d/1rqEOeSDcGGR5x_lKBTYMkL8cfnEShobQ/view?usp=share_link")
-}
+// document.getElementById("resume-button-2").onclick = () => {
+//   window.open("https://drive.google.com/file/d/1rqEOeSDcGGR5x_lKBTYMkL8cfnEShobQ/view?usp=share_link")
+// }
 
 
 function openNav() {
