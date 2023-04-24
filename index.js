@@ -66,6 +66,6 @@ function closeNav() {
 
 
 
-document.getElementById('goTOHackerrank').addEventListener("click", () => {
-  location.href = 'https://www.hackerrank.com/kishansharma6377?hr_r=1'
-})
+// document.getElementById('goTOHackerrank').addEventListener("click", () => {
+//   location.href = 'https://www.hackerrank.com/kishansharma6377?hr_r=1'
+// })
