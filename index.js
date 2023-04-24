@@ -45,13 +45,13 @@ GitHubCalendar(".calendar", "abhirupbakshi", {
   tooltips: true,
 });
 
-// document.getElementById("resume-button-1").onclick = () => {
-//   window.open("https://drive.google.com/file/d/1rqEOeSDcGGR5x_lKBTYMkL8cfnEShobQ/view?usp=share_link")
-// }
+document.getElementById("resume-button-1").onclick = () => {
+  window.open("https://drive.google.com/file/d/1rqEOeSDcGGR5x_lKBTYMkL8cfnEShobQ/view?usp=share_link")
+}
 
-// document.getElementById("resume-button-2").onclick = () => {
-//   window.open("https://drive.google.com/file/d/1rqEOeSDcGGR5x_lKBTYMkL8cfnEShobQ/view?usp=share_link")
-// }
+document.getElementById("resume-button-2").onclick = () => {
+  window.open("https://drive.google.com/file/d/1rqEOeSDcGGR5x_lKBTYMkL8cfnEShobQ/view?usp=share_link")
+}
 
 
 function openNav() {
