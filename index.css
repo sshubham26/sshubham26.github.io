@@ -236,15 +236,17 @@ hr {
   margin-left: 0%;
 }
 
-#hrimg{
+#hrimg {
   width: 100%;
   padding: 1px 5px;
   background-color: rgb(52, 52, 66);
 }
-#resume-button-2{
+
+#resume-button-2 {
   background-color: whitesmoke;
 }
-#resume-button-2:hover{
+
+#resume-button-2:hover {
   background-color: transparent;
   color: aqua;
   border: 1px solid white;
@@ -397,6 +399,7 @@ hr {
   #home h1 {
     font-size: 25px;
   }
+
   #home>img {
     display: block;
     margin-left: auto;
@@ -418,7 +421,8 @@ hr {
     color: #080947;
     background-color: white;
   }
-  #aboutflex{
+
+  #aboutflex {
     display: flex;
     flex-direction: column;
   }
@@ -508,3 +512,5 @@ hr {
     margin: 5%;
   }
 }
+
+.skills-card-img {}
